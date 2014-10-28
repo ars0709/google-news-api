@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\PC4\Desktop\NewsPortal" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Scripts/jquery-2.1.0-vsdoc.js" publishTime="03/20/2014 12:48:09" />
+    <file relUrl="Web.config" publishTime="03/20/2014 14:46:44" />
+    <file relUrl="Scripts/jquery-2.1.0.min.js" publishTime="03/20/2014 12:48:09" />
+    <file relUrl="Image/loading.gif" publishTime="03/20/2014 15:12:10" />
+    <file relUrl="packages.config" publishTime="03/20/2014 12:48:09" />
+    <file relUrl="bin/GoogleNews API.pdb" publishTime="03/20/2014 15:19:47" />
+    <file relUrl="bin/GoogleNews API.dll" publishTime="03/20/2014 15:19:47" />
+    <file relUrl="News.aspx" publishTime="03/20/2014 15:53:39" />
+    <file relUrl="Scripts/jquery-2.1.0.js" publishTime="03/20/2014 12:48:09" />
+  </publishProfile>
+</publishData>
